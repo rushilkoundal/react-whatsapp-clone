@@ -17,4 +17,4 @@ This project is currently in working phase.
 
 ## Feedback
 
-If you have any feedback, please reach out to me at rushilkoundal1611@gmail.com
+If you have any query or suggestions please reach me out at rushilkoundal1611@gmail.com
